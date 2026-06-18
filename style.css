@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    background:#a2d2ff;
+    color:#ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#bff{
+    width:150px;
+    border-radius: 50%;
+    border:6px solid #EFB0C9;
+}
+h1,h2,h3,h4,p{
+    text-shadow: 0 0 1px #000000;
+    background:#EFB0C9;
+}
